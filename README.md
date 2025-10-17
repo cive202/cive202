@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'm an AI and Machine Learning enthusiast, currently exploring the fascinating world of Data Science, Machine Learning, and Computer Graphics.<br><br> I've also learned the MERN Stack (MongoDB, Express.js, React, Node.js) for building full-stack web applications.<br> Lately, I’ve been diving into OpenGL to understand the foundations of computer graphics and 3D rendering.
-
-
+I'm an AI and Machine Learning enthusiast, currently exploring the fascinating world of Data Science, Machine Learning, and Computer Graphics.<br><br> I've also learned the MERN Stack (MongoDB, Express.js, React, Node.js) for building full-stack web applications.<br> 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:civecodes@gmail.com) 
 
